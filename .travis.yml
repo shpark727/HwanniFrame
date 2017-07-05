@@ -3,7 +3,7 @@ language: objective-c
 sudo: required 
 notifications:
   email:
-    - p7hkk@vmani.com
+    - ckz2m@vmani.com
 script:
   - xcodebuild clean build test
     -project "HwanniFrame.xcodeproj"
