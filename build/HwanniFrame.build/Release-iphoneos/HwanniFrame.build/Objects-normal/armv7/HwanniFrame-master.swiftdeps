@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "0d4e0be012fa9651f601f575fe72bfc2"
+build_time: [552569545, 449135000]
+inputs:
+  "/Users/p/Desktop/HwanniFrame/HwanniFrame/UIView+Frame.swift": [9223372036854775807, 0]

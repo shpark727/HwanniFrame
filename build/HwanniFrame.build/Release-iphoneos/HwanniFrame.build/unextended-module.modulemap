@@ -1,0 +1,10 @@
+framework module HwanniFrame {
+  umbrella header "HwanniFrame.h"
+
+  export *
+  module * { export * }
+}
+
+module HwanniFrame.__Swift {
+    exclude header "HwanniFrame-Swift.h"
+}
